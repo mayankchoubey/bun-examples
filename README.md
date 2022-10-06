@@ -1,5 +1,5 @@
-# bun-examples
-Examples for using Bun
+# Bun examples
+Examples for using Bun, all-in-one fast JS runtime
 
 ## HTTP server
 
