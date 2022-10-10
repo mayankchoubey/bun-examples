@@ -1,3 +1,6 @@
+// When the bun process starts, it populates all the environment variables in 
+// Bun.env object that’s present in the Bun namespace. The Bun.env is a simple/plain JS object.
+
 console.log('Total envs:', Object.keys(Bun.env).length);
 console.log('All envs:', Bun.env);
 console.log('OS temporary directory:', Bun.env.TMPDIR);

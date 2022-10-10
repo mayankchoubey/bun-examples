@@ -1,3 +1,5 @@
+// Bun also make all the environment variables available in process.env
+
 console.log('Total envs:', Object.keys(process.env).length);
 console.log('All envs:', process.env);
 console.log('OS temporary directory:', process.env.TMPDIR);
