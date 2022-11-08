@@ -11,4 +11,4 @@ Examples for using Bun, all-in-one fast JS runtime
 ## Command-line args
 
 - [Native command-line args](./command_line_args.js)
-- [Using NPM module ](./command_line_yargs.js)
+- [Using NPM module](./command_line_yargs.js)
